@@ -90,12 +90,19 @@ footer{
     background-color:#59bae0;
     color:#050505;
     font-size:20px;
-    text-align:center;  
+    text-align:Left;  
 }
 
 #Teaching-Intro{
     background-color:#f5e6a0;
     color:#050505;
     font-size:20px;
-    text-align:center;  
+    text-align:Left;  
+}
+
+#Education-Intro{
+    background-color:#b7f368;
+    color:#050505;
+    font-size:20px;
+    text-align:Left;  
 }
