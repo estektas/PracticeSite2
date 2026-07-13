@@ -45,6 +45,22 @@ figcaption{
     color:#555;
 }
 
+.intro-layout{
+    display:flex;
+    align-items:flex-start;
+    gap:24px;
+    flex-wrap:wrap;
+}
+
+.profile-figure{
+    margin:0;
+    flex:0 0 300px;
+}
+
+.intro-text{
+    flex:1 1 400px;
+}
+
 section{
     background:white;
     padding:20px;
@@ -60,6 +76,6 @@ footer{
 #Intro{
     background-color:#ec8ce4;
     color:#050505;
-    font-size:20px;
+    font-size:40px;
     text-align:center;  
 }
