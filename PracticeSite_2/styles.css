@@ -6,7 +6,7 @@ body{
 }
 
 nav{
-    background:#003366;
+    background:#0a0158;
     padding:15px;
 }
 
@@ -33,6 +33,16 @@ p{
 img{
     width:250px;
     border-radius:10px;
+}
+
+figure{
+    margin:20px 0;
+}
+
+figcaption{
+    margin-top:8px;
+    font-size:0.95rem;
+    color:#555;
 }
 
 section{
