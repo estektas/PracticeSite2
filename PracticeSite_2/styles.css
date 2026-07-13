@@ -35,6 +35,11 @@ img{
     border-radius:10px;
 }
 
+figure img{
+    width:50%;
+    height:auto;
+}
+
 figure{
     margin:20px 0;
 }
