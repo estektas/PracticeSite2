@@ -55,3 +55,11 @@ section{
 footer{
     text-align:center;
     margin-top:30px;
+}
+
+#Intro{
+    Background-color:#f005dc;
+    Font-size:20px;
+    text-align:center;  
+    text-color:white;
+}
